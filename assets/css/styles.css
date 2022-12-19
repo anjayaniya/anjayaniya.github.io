@@ -621,7 +621,7 @@ img {
 }
 
 .testimonial__img {
-    width: 60px;
+    width: 180px;
     border-radius: 3rem;
     margin-bottom: 1rem;
 }
@@ -634,6 +634,7 @@ img {
 
 .testimoial__description {
     font-size: var(--small-font-size);
+    margin-bottom: .25rem;
 }
 
 /* Swiper class */
