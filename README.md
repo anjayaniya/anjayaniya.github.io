@@ -1,8 +1,7 @@
-# Richa Purba | The Scientist
-
-
 <img src="./assets/img/behind.png" width=200 align="right"/>
 
+
+# Richa Purba | The Scientist
 
 A personal website to describe briefly about who I am, especially when it comes to professional role. I personally have this website to showcase my recent portfolios and make it easier for the recruiters to know more about me and my abilities in work environment. If you have a feedback, please visit the site and write down your feedback in the contact section. Thank you. 
 
