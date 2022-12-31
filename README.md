@@ -23,7 +23,7 @@ A personal website to describe briefly about who I am, especially when it comes 
 
 ## Demo
 
-![preview img](/preview.png)
+![preview img](/demo.png)
 
 ## Authors
 
